@@ -18,7 +18,7 @@ This project provides a **TensorFlow-based pipeline** for training, evaluating, 
 - NumPy
 - Matplotlib
 - Pandas
-- colorama
+- colorama (optional -- for colorizing the console output)
 
 Install dependencies using:
 
